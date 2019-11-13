@@ -7,3 +7,5 @@ The challenge serves as a tool to ensure I write a little bit of code everyday. 
 If you're reading this and the challenge isn't over then you can [join my team](https://coding-challenge.lighthouselabs.ca/teams/join/bits-and-bytes). The code to join is `UMBRELLA`.
 
 Good luck!
+
+__Note: Some of the code style is not my own as I have copied from Lighthouse Labs 😅...__
